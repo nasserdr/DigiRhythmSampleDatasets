@@ -1,4 +1,4 @@
-# digiRhythm_sample_datasets
+# DigiRhythmSampleDatasets
 This repository contains 5 csv files that are sample data sets used for the digiRhythm library.
 
 These data are described in details in the following paper: 
